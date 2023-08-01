@@ -1,1 +1,1 @@
-!{asdasd}(dina.jpg)
+![asdasd](dina.jpg)
